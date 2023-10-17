@@ -2,6 +2,7 @@
 coding tasks
                                                   Overview of the Program:
 1.The program reads words from input files Input_01.txt and Input_02.txt.
+
 2.It defines a function check_compounded_words that checks if a word can be compounded from smaller words in the list.
 3.The function find_longest_compounded_words processes the input file to find the longest and second longest compounded words.
 4.It sorts the words by length in descending order for efficient processing.
